@@ -1,12 +1,16 @@
  ***Bienvenido a mi Github***
 
 <h1 align="center">Me llamo Juan Manuel Cornejo</h1>
-<h3 align="center">Un apasaionado de Data Science, sobre todo del Malchine Learning</h3>
+<h3 align="center">Un apasaionado de Data Science, sobre todo en Malchine Learning</h3>
 
-<h4 align="left">Puedes encontrarme en:</h4><p align="left">
-  
- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/juanmanuelcornejociruelo)
-&nbsp;
+- Tras más de seis años de experiencia en el sector financiero, en 2019 entré en el programa **Madrid 42**, un campus de alto rendimiento para aprender desde las bases de la programación , mediante peer 2 peer y autoaprendizaje, las skills y soft skills mas demandadas del mercado, no he parado de formarme dirección a ser un gran **Data Scientist**, pudiendo aportar todo lo aprendido en mi experiencia profesional de dirección de equipos, finanzas, análisis etc.
+
+- Lo que me llevo tras varios cursos **SQLdatabases_fromm begginer to expert de SQLhabit, Complete Python Course de Udemy, Google IT Automation with Python en coursera** a meterme de lleno en el mundo de **Data Science. The Bridge**
+
+
+<h4 align="left">Puedes encontrarme en:</h4><p align="left">  
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/juanmanuelcornejociruelo)
+&nbsp; 
 
 <h4 align="left">Lenguajes y herramientas que domino:</h4>
 
