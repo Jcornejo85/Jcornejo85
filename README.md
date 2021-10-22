@@ -9,8 +9,10 @@
 
 
 <h4 align="left">Puedes encontrarme en:</h4><p align="left">  
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/juanmanuelcornejociruelo)
-&nbsp; 
+<a href="https://www.linkedin.com/in/juanmanuelcornejociruelo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.kaggle.com/juanmanuelcornejo"><img src="https://img.shields.io/badge/Kaggle-juanmanuelcornejo-blue?style=for-the-badge&logo=appveyor"></a>
+
+
 
 <h4 align="left">Lenguajes y herramientas que domino:</h4>
 
