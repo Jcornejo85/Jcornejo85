@@ -1,7 +1,7 @@
  ***Bienvenido a mi Github***
 
 <h1 align="center">Me llamo Juan Manuel Cornejo</h1>
-<h3 align="center">Un apasaionado de Data Science, sobre todo en Malchine Learning</h3>
+<h3 align="center">Un apasionado de Data Science, sobre todo en Machine Learning</h3>
 
 - Tras más de seis años de experiencia en el sector financiero, en 2019 entré en el programa **Madrid 42**, un campus de alto rendimiento para aprender desde las bases de la programación , mediante peer 2 peer y autoaprendizaje, las skills y soft skills mas demandadas del mercado, no he parado de formarme dirección a ser un gran **Data Scientist**, pudiendo aportar todo lo aprendido en mi experiencia profesional de dirección de equipos, finanzas, análisis etc.
 
