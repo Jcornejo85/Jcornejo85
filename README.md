@@ -3,16 +3,20 @@
 <h1 align="center">Me llamo Juan Manuel Cornejo</h1>
 <h3 align="center">Un apasionado de Data Science, sobre todo en Machine Learning</h3>
 
+
 - Tras más de seis años de experiencia en el sector financiero, en 2019 entré en el programa **Madrid 42**. Un campus de alto rendimiento para aprender desde las bases de la programación , mediante peer 2 peer y autoaprendizaje, las skills y soft skills mas demandadas del mercado, no he parado de formarme para llegar a ser un gran **Data Scientist**, pudiendo aportar todo lo aprendido en mi experiencia profesional de dirección de equipos, finanzas, análisis etc.
 
 - Lo que me llevó tras varios cursos: **SQLdatabases_fromm begginer to expert de SQLhabit, Complete Python Course de Udemy, Google IT Automation with Python en coursera** a meterme de lleno en el mundo de **Data Science. The Bridge**
 
+Puedes encontrar mi porfolio en el link siguiente:
+
+<a href="https://jcornejo85.github.io/"><img src="https://img.shields.io/badge/Portfolio-juanmanuelcornejo-Green?style=for-the-badge&logo=Data"></a>
 
 <h4 align="left">Puedes encontrarme en:</h4><p align="left">  
 <a href="https://www.linkedin.com/in/juanmanuelcornejociruelo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.kaggle.com/juanmanuelcornejo"><img src="https://img.shields.io/badge/Kaggle-juanmanuelcornejo-blue?style=for-the-badge&logo=appveyor"></a>
 
-
+https://img.shields.io/badge/Portfolio-juanmanuelcornejo-Green?style=for-the-badge&logo=Data
 
 <h4 align="left">Lenguajes y herramientas que domino:</h4>
 
